@@ -1,0 +1,8 @@
+1, /proc/version Linux version 4.20.6-200.fc29.x86_64 (mockbuild@bkernel03.phx2.fedoraproject.org) (gcc version 8.2.1 20181215 (Red Hat 8.2.1-6) (GCC)) #1 SMP Thu Jan 31 15:50:43 UTC 2019
+2, /proc/cpuinfo, Intel(R) Core(TM) i7 4980HQ CPU @ 2.80GHz, 1 core, 6144 KB cache
+3, /proc/meminfo, MemTotal: 4013120 kB
+4, /proc/2286/limits, Soft Limit 8388608, Hard Limit unlimited
+5, /proc/loadavg 0.02 0.08 0.04 2/451 4377, 0.04 load avarage in past 15 minutes
+6, /proc/855/status, nonvoluntary_ctxt_switches: 5058
+7, /proc/uptime, 8745.25 secs. Uptime 8420.42 secs. Uptime on idle proccesses
+8, /proc/fb, 0 svgadrmfb
